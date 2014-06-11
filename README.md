@@ -1,6 +1,6 @@
 ### 01-HelloNashorn ###
 
-*** Working example ***
+**Working example**
 
 Example was taken from [http://blog.jetbrains.com/idea/2014/03/debugger-for-jdk8s-nashorn-javascript-in-intellij-idea-13-1/](http://)
 
@@ -10,7 +10,7 @@ Single module, used relative path to load javascript file
 
 ### 02-HelloNashorn_submodule ###
 
-*** Not working example ***
+**Not working example**
 
 Project conteins submodule, doesn't make sense how javascript file is loaded  
 
@@ -19,7 +19,7 @@ Project conteins submodule, doesn't make sense how javascript file is loaded
 
 ### 03-HelloNashorn_abspath ###
 
-*** Not working example ***
+**Not working example**
 
 Single module, used absolute path to load javascript file 
 
