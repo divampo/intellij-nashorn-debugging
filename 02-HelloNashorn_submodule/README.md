@@ -1,8 +1,12 @@
 ### 02-HelloNashorn_submodule ###
 
-**Not working example**
+**Working example**
 
-Project conteins submodule, doesn't make sense how javascript file is loaded  
+Project contains submodule
 
-`engine.eval("load('src/main/resources/js/helloWorld.js')");`
+```
+engine.eval("load('src/main/resources/js/helloWorld.js')");`
+```
+
+Fixed in [IDEA-126148](https://youtrack.jetbrains.com/issue/IDEA-126148)
 
